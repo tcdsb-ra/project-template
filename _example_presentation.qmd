@@ -1,7 +1,7 @@
 ---
 title: "Title"
 subtitle: "Subtitle"
-format: tcdsb-revealjs
+format: slides-revealjs
 dev: ragg_png
 params:
   param1: "Parameter 1"
@@ -61,6 +61,6 @@ mtcars |>
 
 ::: {.no-stretch} 
 <!--  Need 'no-stetch' div or else image will fill the entire slide -->
-![](assets/r_a_logo.png){width=350px fig-align="center"}
+![](_brand/assets/r_a_logo.png){width=350px fig-align="center"}
 :::
 

@@ -5,7 +5,7 @@ author: "Author"
 dept: "Research or Analytics Report"
 date: today
 
-format: tcdsb-typst
+format: report-typst
 fig-width: 7
 fig-height: 4
 
